@@ -1,0 +1,1 @@
+[![CI Status](https://github.com/MitskevichJ/Modules/workflows/CI/badge.svg)](https://github.com/MitskevichJ/Modules/actions)
